@@ -1,13 +1,14 @@
 ### Hi there. I'm Andrea 👋
 
 <!--
-**andrea-cadeddu/andrea-cadeddu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**andrea-cadeddu/andrea-cadeddu** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on statistical learning course
-- 🌱 I’m currently learning advanced neural networks
-- 📫 How to reach me:
-    - [LinkedIn](https://www.linkedin.com/in/andrea-cadeddu)
+* 🔭 I’m currently working on a course in stastical learning
+* 🌱 I’m currently learning advanced neural networks
+* 🧩 I'm currently studying implementations of knowledge graph with bert models
+* 📫 How to reach me:
+    * [LinkedIn](https://www.linkedin.com/in/andrea-cadeddu)
 
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrea-cadeddu)
 
