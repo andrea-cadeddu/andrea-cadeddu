@@ -4,7 +4,7 @@
 **andrea-cadeddu/andrea-cadeddu** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-* 🔭 I’m currently working on a course in stastical learning
+* 🔭 I’m currently working on a course in statistical learning
 * 🌱 I’m currently learning advanced neural networks
 * 🧩 I'm currently studying implementations of knowledge graph with bert models
 * 📫 How to reach me:
